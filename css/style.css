@@ -5,6 +5,34 @@ body{
     margin: auto;
 }
 
+.navbar {
+    background-color: #6A5ACD;
+}
+
+.quemsomos {
+    background-color: grey;
+    color: white;
+}
+
+.sobre-mim{
+    text-align: center;
+}
+
+.servicos{
+    background-color: white;
+    color: black;
+}
+
+.contato{
+    background-color: black;
+    color: white;
+}
+
+.margin{
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+
 .photo {
     border: 1px solid #505050;
     border-radius: 50%;
@@ -22,8 +50,8 @@ body{
 }
 
 a {
-    text-decoration: line-through ;
-    color: #505050
+    text-decoration: none;
+    color: rgb(68, 53, 126);
 }
 
 .post_title {
